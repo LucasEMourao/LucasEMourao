@@ -28,8 +28,8 @@ Trago uma bagagem sólida de 7 anos na área comercial, o que me proporcionou um
 
 <div align="center">
   <a href="https://github.com/LucasEMourao">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=LucasEMourao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Lucas"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEMourao&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas pelo Lucas"/>
+    <img height="180" src="https://github-readme-stats-roan-zeta-56.vercel.app/api?username=LucasEMourao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Lucas"/>
+    <img height="180" src="https://github-readme-stats-roan-zeta-56.vercel.app/api/top-langs/?username=LucasEMourao&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas pelo Lucas"/>
   </a>
 </div>
 
